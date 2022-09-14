@@ -2,5 +2,5 @@
 This is a test repo for CPSC 4800 course
 
 # Test ReadMe File
-THis is a test to showcase 
--WHat ***Markdown*** skills I have
+This is a test to showcase 
+-What ***Markdown*** skills I have
