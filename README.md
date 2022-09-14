@@ -10,7 +10,7 @@ This is a test to showcase
 2. Me
 3. ordered
 
-You can always use [Google](www.google.com) for help.
+You can always use [Google](http:/www.google.com) for help.
 
 
 
